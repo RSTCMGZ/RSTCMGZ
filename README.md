@@ -33,9 +33,7 @@
 </a>
 
 <!-- AI & LLM -->
-<a href="https://openai.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://seeklogo.com/images/O/open-ai-logo-8B9BFEDC26-seeklogo.com.png" alt="openai" width="40" height="40"/> 
-</a>
+
 <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> 
   <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="langchain" width="40" height="40"/> 
 </a>
